@@ -9,4 +9,9 @@
          2. sub directory making
          3. All Files data reading 
          4. directory delete
-  
+# Heart Disease Dataset Analysis Project
+    Kaggle dataset link: /kaggle/input/heart-desease-dataset/Heart-disease/heart.csv
+	kaggle notebook link: https://www.kaggle.com/code/somshubhragiri/heart-disease-explore-analysis
+    In this Project we take dataset from kaggle and doing all the analysis in kaggle notebook only.
+	Here we plot so many distribution graph and that gives some meaningful insights, use correlation between two columns and plot the heat map using seaborn library.
+	After that we check some of the vital correlation using join plot and at the end using pair plot that gives us all possibility correlation map in one frame and it helps to end user understand easily.
